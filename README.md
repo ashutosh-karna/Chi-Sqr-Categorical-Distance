@@ -1,5 +1,7 @@
 # Chi-Square Distance for High-Dimensional Categorical Data
 
+[![DOI](https://zenodo.org/badge/1201937172.svg)](https://doi.org/10.5281/zenodo.19431370)
+
 ## Overview
 
 This package provides efficient implementations of chi-square distance and chi-square statistical measures for categorical data. It is designed for computing distances between categorical distributions and performing two-sample homogeneity tests on high-dimensional categorical datasets.
@@ -138,19 +140,22 @@ If you use this package in your research, please cite it as follows:
   title={Chi-Square Distance for High-Dimensional Categorical Data},
   author={Karna, Ashutosh},
   year={2026},
-  version={1.0.0}
+  version={1.0.0},
+  doi={10.5281/zenodo.19431370},
+  url={https://doi.org/10.5281/zenodo.19431370}
 }
 ```
 
 Or in plain text:
 
 ```
-Karna, A. (2026). Chi-Square Distance for High-Dimensional Categorical Data. Version 1.0.0.
+Karna, A. (2026). Chi-Square Distance for High-Dimensional Categorical Data. Version 1.0.0. 
+https://doi.org/10.5281/zenodo.19431370
 ```
 
 ## License
 
-This software is provided as-is for research purposes. Please refer to the project license for more details.
+This software is provided as-is for research purposes. Please contact the author for more details.
 
 ## Author
 
@@ -160,4 +165,4 @@ Ashutosh Karna
 
 For questions, bug reports, or contributions regarding this package, please contact:
 
-**Email:** ashutosh.karna@upc.edu
+**Email:** ashutosh.karna@gmail.com
