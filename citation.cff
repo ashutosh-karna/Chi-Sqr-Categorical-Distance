@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Chi-Square Distance for High-Dimensional Categorical Data"
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Karna"
+    given-names: "Ashutosh"
+year: 2026
+version: 1.0.0
