@@ -1,3 +1,13 @@
+Metadata-Version: 2.4
+Name: chi-sqr-categorical-distance
+Version: 0.1.0
+Summary: Chi-square distance and chi-square statistic implementations for categorical data analysis
+Author: Ashutosh Karna
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: numpy>=1.20.0
+Requires-Dist: pandas>=1.0.0
+
 # Chi-Square Distance for High-Dimensional Categorical Data
 
 ## Overview
@@ -34,14 +44,24 @@ $$E_{ij} = \frac{\text{Row}_i \text{ Sum} \times \text{Col}_j \text{ Sum}}{\text
 
 ## Installation
 
-**Note:** Package distribution via PyPI and uv is forthcoming. Currently, installation from source is recommended for academic and research use.
+### Using pip
+
+```bash
+pip install chi-sqr-categorical-distance
+```
+
+### Using uv
+
+```bash
+uv pip install chi-sqr-categorical-distance
+```
 
 ### From source
 
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/ashutosh-karna/Chi-Sqr-Categorical-Distance.git
+git clone <repository-url>
 cd Chi-Sqr-Categorical-Distance
 pip install -r requirements.txt
 ```

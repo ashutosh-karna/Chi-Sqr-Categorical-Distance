@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+chi2dist/__init__.py
+chi2dist/chi2distance.py
+chi_sqr_categorical_distance.egg-info/PKG-INFO
+chi_sqr_categorical_distance.egg-info/SOURCES.txt
+chi_sqr_categorical_distance.egg-info/dependency_links.txt
+chi_sqr_categorical_distance.egg-info/requires.txt
+chi_sqr_categorical_distance.egg-info/top_level.txt
